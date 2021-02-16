@@ -1,4 +1,4 @@
 # Autonomous-car-Vision
 
-You can download the vehicles dataset from here and the non_vehicles dataset from here
-
+vehicles dataset: https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip                                                                                                     
+non vehicles dataset: https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip
